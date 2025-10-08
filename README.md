@@ -1,6 +1,6 @@
 # Olá👋
 
-Meu nome é Vitória. Tenho 16 anos e atualmente estou cursando Desenvolvimento de Sistemas no SENAI-SP. Onde estou aprendendo e me desenvolvendo nas áreas de programação e tecnologia.
+Meu nome é Vitória. Tenho 17 anos e atualmente estou cursando Desenvolvimento de Sistemas no SENAI-SP. Onde estou aprendendo e me desenvolvendo nas áreas de programação e tecnologia.
 
 ## Objetivos
 
